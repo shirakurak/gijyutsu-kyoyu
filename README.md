@@ -1,2 +1,6 @@
 # gijyutsu-kyoyu
-技術共有
+
+| date | content |
+| ---- | ---- |
+| 1/26 | TD |
+| TD | TD |
